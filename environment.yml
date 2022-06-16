@@ -1,0 +1,25 @@
+name: cdml
+channels:
+- pytorch
+- defaults
+- conda-forge
+dependencies:
+- black
+- cffi
+- cmake
+- doubleml
+- jupyter
+- matplotlib
+- mkl
+- multiprocess
+- nb_conda
+- numpy
+- pytorch
+- pyyaml
+- scikit-image
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- torchvision
+- tqdm
